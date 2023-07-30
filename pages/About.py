@@ -25,7 +25,7 @@ st.markdown("📊 This bar chart visualizes the generation of nuclear energy ove
 
 # Proportion of Forecasted Load vs. Actual Load
 st.subheader('Proportion of Forecasted Load vs. Actual Load')
-st.markdown("📊 This pie chart compares the proportion of forecasted load and actual load. The chart displays the percentage of total load in megawatts (MW) represented by the forecasted load and the actual load. The larger segment of the pie corresponds to the higher value between forecasted and actual loads.")
+st.markdown("📊 This bar chart compares the proportion of forecasted load and actual load. The chart displays the percentage of total load in megawatts (MW) represented by the forecasted load and the actual load. The larger segment of the pie corresponds to the higher value between forecasted and actual loads.")
 
 # Line chart to show Fossil Hard Coal Generation Over Time
 st.subheader('Fossil Hard Coal Generation Over Time')
@@ -57,7 +57,7 @@ st.markdown("📊 This histogram visualizes the frequency distribution of fossil
 
 # Total Fossil Fuel Generation Over Time
 st.subheader('Total Fossil Fuel Generation Over Time')
-st.markdown("📊 This displays the frequency distribution of the total fossil fuel generation (sum of hard coal, oil, shale, and peat) over different time points. The x-axis represents the total generation levels, and the y-axis shows the frequency of each total generation level. The highest bar in the histogram corresponds to the maximum total fossil fuel generation, while the lowest bar represents the minimum total fossil fuel generation.")
+st.markdown("📊 This histogram displays the frequency distribution of the total fossil fuel generation (sum of hard coal, oil, shale, and peat) over different time points. The x-axis represents the total generation levels, and the y-axis shows the frequency of each total generation level. The highest bar in the histogram corresponds to the maximum total fossil fuel generation, while the lowest bar represents the minimum total fossil fuel generation.")
 
 #st.subheader('Nuclear Generation Over Time')
 st.subheader("Nuclear Generation Over Time")
