@@ -1,13 +1,12 @@
-welcome 
-This is a web appication ...ENERGY CONSUMPTION ANALYSIS
+Welcome 
+This is a Web Appication ...ENERGY CONSUMPTION ANALYSIS
 
 This project is created by Kritika Kumari and Pratishtha Singh😊
 
-The main aim of this project is to analyse the energy conservation using python 
+The main aim of this project is to analyse the energy consumption over the time using Python 
 
-1. run on local machine 
- pip install -r requirement.txt
+1. run on local machine
+2. pip install -r requirement.txt
 
-
- 2.after installing all the dependencies, run the following command in the terminal
- streamlit run.py
+3. after installing all the dependencies, run the following command in the terminal
+streamlit run.py
