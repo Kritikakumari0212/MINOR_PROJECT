@@ -1,5 +1,5 @@
 Welcome 
-This is a Web Appication ...ENERGY CONSUMPTION ANALYSIS
+This is a Web Application ...ENERGY CONSUMPTION ANALYSIS
 
 This project is created by Kritika Kumari and Pratishtha Singh😊
 

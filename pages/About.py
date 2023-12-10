@@ -1,6 +1,6 @@
 import streamlit as st
 st.markdown("<h1 style='text-align: center; color: white;'>ABOUT  PROJECT</h1>", unsafe_allow_html=True)
-st.markdown("<p color: white;'>This is an Energy Consumption Analysis Web App. This app is created using Streamlit and Python. In this Web App we have analysed the Energy Consumption dataset from kaggle.</p>", unsafe_allow_html=True)
+st.markdown("<p color: white;'>This is a Energy Consumption Analysis Web App. This app is created using Streamlit and Python. In this Web App we have analysed the Energy Consumption dataset from kaggle.</p>", unsafe_allow_html=True)
 
 st.markdown("<p color: white;>For Analysis Purpose we have used the following charts: </p>",unsafe_allow_html=True)
 st.markdown("1. Bar Chart")
@@ -9,7 +9,7 @@ st.markdown("3. Line Chart")
 st.markdown("4. Pie Chart")
 st.markdown("5. Time Series Chart")
 
-st.markdown("### 🌟 Introduction\n\nThe Energy Consumption Analysis app presents visualizations of energy generation and consumption patterns. Users can explore insights from the data, including the generation trends for fossil gas, fossil oil, and nuclear energy, as well as the proportion of forecasted load vs. actual load and the distribution of fossil fuel generation over time. Interactive pie charts showcase the proportions of various renewable energy sources, while histograms and area charts depict the generation trends for fossil hard coal, solar, and nuclear energy.")
+st.markdown("### 🌟 Introduction\n\n")
 
 # Bar chart to show Fossil Gas Generation Over Time
 st.subheader('Fossil Gas Generation Over Time')
@@ -71,3 +71,4 @@ st.markdown("📈 This line area chart displays the generation of solar energy o
 st.subheader('Nuclear Generation vs. Fossil Gas Generation Over Time')
 st.markdown("📈 This line chart with dual y-axes compares the generation of nuclear energy and fossil gas over time. The x-axis represents time, while the left y-axis shows nuclear energy generation in purple, and the right y-axis shows fossil gas generation in blue. The highest point on the purple line corresponds to the maximum nuclear energy generation, while the highest point on the blue line represents the maximum fossil gas generation.")
 
+("The Energy Consumption Analysis app presents visualizations of energy generation and consumption patterns. Users can explore insights from the data, including the generation trends for fossil gas, fossil oil, and nuclear energy, as well as the proportion of forecasted load vs. actual load and the distribution of fossil fuel generation over time. Interactive pie charts showcase the proportions of various renewable energy sources, while histograms and area charts depict the generation trends for fossil hard coal, solar, and nuclear energy.")
